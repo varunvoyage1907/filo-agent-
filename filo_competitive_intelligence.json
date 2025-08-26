@@ -1,0 +1,93 @@
+{
+  "analysis_date": "2025-08-26",
+  "analysis_type": "Active Campaigns ROAS Intelligence",
+  
+  "market_benchmarks": {
+    "average_cpc": 4.83,
+    "average_ctr": 1.30,
+    "best_cpc": 3.11,
+    "total_active_campaigns_analyzed": 20,
+    "campaigns_with_significant_spend": 7
+  },
+  
+  "our_campaign_performance": {
+    "campaign_name": "ai-filo-agent",
+    "account": "GoEye3.0",
+    "cpc": 3.11,
+    "ctr": 1.89,
+    "daily_spend": 1628,
+    "market_position": "TOP_PERFORMER",
+    "cpc_advantage": "35.4% better than market average",
+    "ctr_advantage": "Above market average"
+  },
+  
+  "top_competitors": [
+    {
+      "campaign": "Frame Special",
+      "account": "Voyage 2.0", 
+      "cpc": 3.68,
+      "ctr": 1.79,
+      "spend": 1331,
+      "performance_tier": "EXCELLENT"
+    },
+    {
+      "campaign": "CPR-DPA_ALL Prospects_New",
+      "account": "VoyageEyewear.Com",
+      "cpc": 3.72,
+      "ctr": 1.64,
+      "spend": 1178,
+      "performance_tier": "EXCELLENT"
+    }
+  ],
+  
+  "successful_targeting_patterns": {
+    "proven_interests": [
+      {"name": "Sunglasses (eyewear)", "performance": "EXCELLENT", "used_in_our_campaign": true},
+      {"name": "Music (entertainment and media)", "performance": "GOOD", "used_in_our_campaign": true},
+      {"name": "Films (entertainment and media)", "performance": "GOOD", "used_in_our_campaign": true}
+    ],
+    
+    "optimal_age_ranges": [
+      {"range": "25-45", "performance": "PROVEN", "used_in_our_campaign": true},
+      {"range": "28-50", "performance": "HIGH_INCOME", "used_in_our_campaign": true},
+      {"range": "30-50", "performance": "PROFESSIONAL", "used_in_our_campaign": true},
+      {"range": "18-45", "performance": "BROAD_REACH", "used_in_our_campaign": false}
+    ]
+  },
+  
+  "strategic_insights": {
+    "our_competitive_advantage": [
+      "Best CPC in the market (₹3.11)",
+      "Above average CTR (1.89% vs 1.30%)",
+      "Highest daily spend with best efficiency",
+      "Strategic targeting with proven interests"
+    ],
+    
+    "market_opportunities": [
+      "Broader age range testing (18-45)",
+      "Lookalike audience expansion",
+      "Dynamic product ads (DPA) testing"
+    ],
+    
+    "roas_strategy_validation": {
+      "our_approach": "MARKET_LEADING",
+      "budget_efficiency": "EXCELLENT",
+      "targeting_precision": "OPTIMAL",
+      "scaling_potential": "HIGH"
+    }
+  },
+  
+  "recommendations": {
+    "immediate": [
+      "Continue current strategy - we are market leaders",
+      "Monitor competitors scaling their budgets",
+      "Test broader age ranges (18-45) in new ad sets"
+    ],
+    
+    "strategic": [
+      "Consider DPA (Dynamic Product Ads) like competitors",
+      "Test lookalike audiences based on our high performance",
+      "Expand to additional interest categories while maintaining CPC"
+    ]
+  }
+}
