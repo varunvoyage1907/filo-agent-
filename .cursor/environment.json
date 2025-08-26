@@ -1,0 +1,48 @@
+{
+  "name": "FILO Facebook Ads AI Agent",
+  "description": "Advanced AI agent for Facebook advertising with Claude 4 Sonnet intelligence, terminal access, and deep campaign analysis",
+  "install_command": "pip install -r requirements.txt && echo '🚀 FILO AI Agent environment ready!'",
+  "terminals": [
+    {
+      "name": "FILO Dashboard",
+      "command": "python3 filo_ai_dashboard.py",
+      "description": "Runs the FILO AI dashboard with Claude 4 Sonnet integration"
+    },
+    {
+      "name": "Campaign Monitor",
+      "command": "python3 filo_true_ai.py",
+      "description": "Starts the intelligent campaign monitoring system"
+    }
+  ],
+  "secrets": [
+    {
+      "name": "FACEBOOK_ACCESS_TOKEN",
+      "description": "Facebook Ads API access token for campaign management"
+    },
+    {
+      "name": "ANTHROPIC_API_KEY", 
+      "description": "Claude 4 Sonnet API key for AI intelligence"
+    }
+  ],
+  "environment_variables": {
+    "FB_AD_ACCOUNT_ID": "act_612972137428654",
+    "TARGET_CAMPAIGN_ID": "120233161125750134",
+    "FILO_MODE": "background_agent",
+    "PYTHON_PATH": "/usr/bin/python3"
+  },
+  "capabilities": [
+    "Facebook Ads API integration",
+    "Claude 4 Sonnet AI intelligence", 
+    "Terminal command execution",
+    "Real-time campaign monitoring",
+    "Deep diagnostic analysis",
+    "Automated optimization",
+    "Strategic decision making"
+  ],
+  "documentation": {
+    "setup_guide": "README.md",
+    "ad_creation_formula": "PERFECT_AD_CREATION_FORMULA.md",
+    "targeting_guide": "EXPERT_TARGETING_GUIDE.md",
+    "memory_system": "MEMORY_SYSTEM_EXPLANATION.md"
+  }
+}

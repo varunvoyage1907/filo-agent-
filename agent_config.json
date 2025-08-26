@@ -1,0 +1,12 @@
+{
+  "agent_name": "Enterprise Facebook Marketing Agent",
+  "version": "1.0.0",
+  "business_type": "eyewear_ecommerce",
+  "currency": "INR",
+  "timezone": "Asia/Kolkata",
+  "auto_optimization": true,
+  "risk_tolerance": "medium",
+  "reporting_frequency": "daily",
+  "backup_enabled": true,
+  "audit_trail": true
+}

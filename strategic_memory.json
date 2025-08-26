@@ -1,0 +1,126 @@
+{
+  "brand_strategies": {
+    "voyage": {
+      "positioning": "",
+      "target_demographics": {},
+      "successful_campaigns": [],
+      "failed_campaigns": [],
+      "learnings": [
+        {
+          "timestamp": "2025-08-26T05:13:27.314041",
+          "campaign_id": "demo_campaign_001",
+          "type": "audience_insight",
+          "insight": "25-35 age group shows 40% higher engagement with lifestyle-focused creatives",
+          "supporting_data": {
+            "engagement_rate": 4.2,
+            "age_group": "25-35",
+            "creative_type": "lifestyle"
+          }
+        },
+        {
+          "timestamp": "2025-08-26T05:13:27.314800",
+          "campaign_id": "demo_campaign_002",
+          "type": "creative_insight",
+          "insight": "Video ads outperform image ads by 60% for summer collection",
+          "supporting_data": {
+            "video_ctr": 3.2,
+            "image_ctr": 2.0,
+            "collection": "summer"
+          }
+        },
+        {
+          "timestamp": "2025-08-26T05:16:17.246543",
+          "campaign_id": "new_session_campaign",
+          "type": "seasonal_insight",
+          "insight": "Winter collection performs 30% better with warm color schemes",
+          "supporting_data": {
+            "season": "winter",
+            "performance_boost": 30,
+            "color_scheme": "warm"
+          }
+        }
+      ],
+      "seasonal_patterns": {},
+      "competitor_insights": {}
+    },
+    "goeye": {
+      "positioning": "",
+      "target_demographics": {},
+      "successful_campaigns": [],
+      "failed_campaigns": [],
+      "learnings": [],
+      "seasonal_patterns": {},
+      "competitor_insights": {}
+    },
+    "eyejack": {
+      "positioning": "",
+      "target_demographics": {},
+      "successful_campaigns": [],
+      "failed_campaigns": [],
+      "learnings": [],
+      "seasonal_patterns": {},
+      "competitor_insights": {}
+    }
+  },
+  "audience_insights": {
+    "high_performing_audiences": [],
+    "audience_fatigue_patterns": {},
+    "demographic_preferences": {},
+    "behavioral_insights": {}
+  },
+  "creative_insights": {
+    "winning_creative_patterns": [],
+    "creative_fatigue_cycles": {},
+    "format_performance": {},
+    "messaging_insights": {}
+  },
+  "market_insights": {
+    "seasonal_trends": {},
+    "competitive_landscape": {},
+    "market_opportunities": [],
+    "threats": []
+  },
+  "optimization_playbook": {
+    "proven_strategies": [],
+    "optimization_sequences": [],
+    "emergency_protocols": [],
+    "scaling_strategies": []
+  },
+  "performance_benchmarks": {
+    "industry_benchmarks": {},
+    "brand_benchmarks": {},
+    "campaign_type_benchmarks": {}
+  },
+  "strategic_decisions": [
+    {
+      "timestamp": "2025-08-26T05:13:25.477097",
+      "type": "campaign_launch",
+      "context": {
+        "name": "Voyage Summer Collection 2024",
+        "brand": "Voyage",
+        "objective": "conversions",
+        "target_audience": {
+          "age_range": "25-45",
+          "interests": [
+            "fashion",
+            "eyewear",
+            "lifestyle"
+          ],
+          "location": "India"
+        },
+        "budget": {
+          "daily_budget": 2000,
+          "total_budget": 60000
+        },
+        "expected_outcome": "Increase summer collection sales by 25%"
+      },
+      "reasoning": "Launching conversions campaign for Voyage based on strategic analysis",
+      "expected_outcome": "Increase summer collection sales by 25%",
+      "actual_outcome": null,
+      "lessons_learned": []
+    }
+  ],
+  "lessons_learned": [],
+  "future_strategies": [],
+  "last_updated": "2025-08-26T05:16:17.246571"
+}

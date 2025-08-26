@@ -1,0 +1,108 @@
+{
+  "campaigns": {
+    "sim_20250826_051325": {
+      "launch_date": "2025-08-26T05:13:25.477823",
+      "campaign_data": {
+        "id": "sim_20250826_051325",
+        "name": "Voyage Summer Collection 2024",
+        "status": "ACTIVE",
+        "objective": "conversions",
+        "created_time": "2025-08-26T05:13:25.477815",
+        "expected_outcome": "Increase summer collection sales by 25%"
+      },
+      "strategy": "",
+      "reasoning": "Strategic launch based on 2 recommendations",
+      "status": "active",
+      "performance_snapshots": [
+        {
+          "timestamp": "2025-08-26T05:13:26.252050",
+          "performance": {
+            "impressions": "15000",
+            "clicks": "450",
+            "spend": "1800.50",
+            "ctr": "3.0",
+            "cpc": "4.00",
+            "conversions": "25",
+            "cost_per_conversion": "72.02"
+          },
+          "analysis": {
+            "status": "excellent",
+            "trends": [
+              "High CTR indicates strong creative performance"
+            ],
+            "recommendations": [],
+            "alerts": []
+          }
+        }
+      ],
+      "optimizations": [
+        {
+          "timestamp": "2025-08-26T05:13:26.996938",
+          "type": "audience",
+          "changes": {
+            "audience_expansion": true,
+            "budget_increase": 500,
+            "creative_refresh": true,
+            "expected_impact": "15% CTR improvement"
+          },
+          "reasoning": "Audience optimization based on performance data and historical patterns",
+          "expected_impact": "15% CTR improvement"
+        }
+      ],
+      "insights": []
+    }
+  },
+  "strategies": {},
+  "performance_history": {
+    "sim_20250826_051325": [
+      {
+        "timestamp": "2025-08-26T05:13:26.252050",
+        "performance": {
+          "impressions": "15000",
+          "clicks": "450",
+          "spend": "1800.50",
+          "ctr": "3.0",
+          "cpc": "4.00",
+          "conversions": "25",
+          "cost_per_conversion": "72.02"
+        },
+        "analysis": {
+          "status": "excellent",
+          "trends": [
+            "High CTR indicates strong creative performance"
+          ],
+          "recommendations": [],
+          "alerts": []
+        }
+      }
+    ]
+  },
+  "insights": {},
+  "decisions": {
+    "2025-08-26T05:13:25.477823": {
+      "type": "campaign_launch",
+      "campaign_id": "sim_20250826_051325",
+      "strategy": "",
+      "reasoning": "Strategic launch based on 2 recommendations",
+      "expected_outcome": "Increase summer collection sales by 25%"
+    },
+    "2025-08-26T05:13:26.996938": {
+      "type": "optimization",
+      "campaign_id": "sim_20250826_051325",
+      "optimization_type": "audience",
+      "reasoning": "Audience optimization based on performance data and historical patterns",
+      "changes": {
+        "audience_expansion": true,
+        "budget_increase": 500,
+        "creative_refresh": true,
+        "expected_impact": "15% CTR improvement"
+      }
+    }
+  },
+  "brand_profiles": {},
+  "audience_insights": {},
+  "creative_performance": {},
+  "budget_allocations": {},
+  "seasonal_patterns": {},
+  "last_updated": "2025-08-26T05:13:26.996958"
+}

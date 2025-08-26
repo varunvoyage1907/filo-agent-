@@ -1,0 +1,38 @@
+{
+  "facebook_access_token": "EAAUvtsYkeTQBPSCp4Q9Q8qFZBEv46Lv5hoc5ocHcNpNINysAUaqw5DXAAVresURU390TTXaAG5EsHCD0Gxflb5ZCqZCABLfumZAKooVS3ZAiRB5stK3PC6FyQmYGzFnhLk1fct6YMTffDYOK2mVtTjVswsBo36s600Sa7dam138qFJYBnoeuNJMHVeYYZAul2D3haWJP6pfLHC8kyOz5mbpbaGLka9M9Q2dGnaTofX9W3fCVeerteEqngbI5CMANJVB3uGHfvMnIZB5ISTB",
+  "ad_account_id": "act_612972137428654",
+  "monitoring_interval": 15,
+  "rules": {
+    "scale_up_roas": 5.0,
+    "scale_down_roas": 3.5,
+    "pause_roas": 3.0,
+    "scale_up_percentage": 20,
+    "scale_down_percentage": 15,
+    "max_daily_spend": 12000,
+    "min_daily_spend": 500,
+    "max_cpc_increase": 50,
+    "min_conversions_for_action": 3
+  },
+  "notifications": {
+    "email_enabled": true,
+    "email_address": "varun@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_username": "your@gmail.com",
+    "smtp_password": "your_app_password",
+    "sms_enabled": false,
+    "sms_number": "+91XXXXXXXXXX"
+  },
+  "safety": {
+    "emergency_pause_enabled": true,
+    "max_actions_per_hour": 10,
+    "require_approval_for_large_changes": true,
+    "large_change_threshold": 50
+  },
+  "target_campaign": "120233161125750134",
+  "target_ad_sets": [
+    "120233161126020134",
+    "120233169389280134", 
+    "120233169411530134"
+  ]
+}
