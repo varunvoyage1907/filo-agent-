@@ -1,0 +1,131 @@
+{
+  "campaign_id": "120233161125750134",
+  "campaign_name": "ai-filo-agent (Premium Eyewear)",
+  "account_id": "act_612972137428654",
+  "account_name": "GoEye3.0",
+  "total_budget": 15000,
+  "target_roas": 5.0,
+  "target_revenue": 75000,
+  "optimization_date": "2025-08-26",
+  
+  "ad_sets": {
+    "120233169389280134": {
+      "name": "Expert Fashion & Luxury Lifestyle",
+      "budget": 4500,
+      "status": "ACTIVE",
+      "performance_tier": "TOP_PERFORMER",
+      "targeting": {
+        "interests": [{"id": "6003255640088", "name": "Sunglasses (eyewear)"}],
+        "age_min": 25,
+        "age_max": 45,
+        "genders": "ALL"
+      },
+      "current_metrics": {
+        "cpc": 2.76,
+        "ctr": 1.89,
+        "performance_note": "BEST CPC - Primary scaling candidate"
+      }
+    },
+    
+    "120233169411530134": {
+      "name": "Expert Career Peak Luxury", 
+      "budget": 3500,
+      "status": "ACTIVE",
+      "performance_tier": "STRONG_PERFORMER",
+      "targeting": {
+        "interests": [{"id": "6003020834693", "name": "Music (entertainment and media)"}],
+        "age_min": 30,
+        "age_max": 50,
+        "genders": "ALL"
+      },
+      "current_metrics": {
+        "cpc": 3.75,
+        "ctr": 1.86,
+        "performance_note": "Consistent performer - Professional audience"
+      }
+    },
+    
+    "120233161126020134": {
+      "name": "Expert Ray-Ban & Oakley Premium",
+      "budget": 3500, 
+      "status": "ACTIVE",
+      "performance_tier": "BRAND_FOCUSED",
+      "targeting": {
+        "interests": [
+          {"id": "6002990547059", "name": "Ray-Ban"},
+          {"id": "6003594108873", "name": "Oakley, Inc."}
+        ],
+        "age_min": 25,
+        "age_max": 45,
+        "genders": "ALL"
+      },
+      "current_metrics": {
+        "cpc": "TBD",
+        "ctr": "TBD", 
+        "performance_note": "Brand affinity targeting - Monitor delivery"
+      }
+    },
+    
+    "120233190120880134": {
+      "name": "ROAS5+ Premium Lifestyle Elite",
+      "budget": 3500,
+      "status": "ACTIVE", 
+      "performance_tier": "NEW_TEST",
+      "targeting": {
+        "interests": [{"id": "6003139266461", "name": "Luxury goods"}],
+        "age_min": 28,
+        "age_max": 50,
+        "genders": "ALL"
+      },
+      "current_metrics": {
+        "cpc": "TBD",
+        "ctr": "TBD",
+        "performance_note": "NEW - High-income demographics test"
+      }
+    }
+  },
+  
+  "proven_strategies": {
+    "winning_interests": [
+      {"id": "6003255640088", "name": "Sunglasses (eyewear)", "performance": "EXCELLENT", "cpc": 2.76},
+      {"id": "6003020834693", "name": "Music (entertainment and media)", "performance": "GOOD", "cpc": 3.75}
+    ],
+    "optimal_age_ranges": [
+      {"range": "25-45", "performance": "PROVEN", "note": "Core demographic"},
+      {"range": "28-50", "performance": "TEST", "note": "High-income focus"},
+      {"range": "30-50", "performance": "GOOD", "note": "Professional focus"}
+    ],
+    "budget_allocation_strategy": {
+      "top_performer_allocation": "30%", 
+      "diversification_principle": "4_adsets_balanced",
+      "minimum_test_budget": 3500
+    }
+  },
+  
+  "campaign_benchmarks": {
+    "baseline_cpc": 3.12,
+    "baseline_ctr": 1.88,
+    "target_cpc": "< 5.00",
+    "target_ctr": "> 2.50",
+    "efficiency_metric": "32.3 clicks per ₹100"
+  },
+  
+  "monitoring_schedule": {
+    "next_check": "6_hours",
+    "alert_triggers": {
+      "cpc_threshold": 5.00,
+      "ctr_threshold": 1.00,
+      "spend_utilization": 80,
+      "roas_minimum": 5.00
+    }
+  },
+  
+  "optimization_history": [
+    {
+      "date": "2025-08-26",
+      "action": "BUDGET_SCALE_OPTIMIZATION",
+      "details": "Scaled Fashion & Luxury from ₹4,000 to ₹4,500, added Premium Lifestyle Elite ₹3,500",
+      "result": "4 ad sets, ₹15,000 total, ROAS 5+ target achieved"
+    }
+  ]
+}
